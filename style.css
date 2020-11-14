@@ -1,0 +1,23 @@
+body {
+    background-color: #5b78c7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+  }
+  
+  .btn {
+    padding: 10px;
+    color: #f2f2f2;
+    border-radius: 5px;
+    color: gray;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    outline: none;
+  }
